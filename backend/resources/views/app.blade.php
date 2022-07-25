@@ -8,6 +8,7 @@
     @inertiaHead
 </head>
 <body>
+    aaaa
     @inertia
 </body>
 </html>
